@@ -22,7 +22,7 @@ public class CardTrickICE1 {
      */
     public static void main(String[] args) 
     {
-        Card luckyCard = new Card("spades",5);//Added from github
+        Card luckyCard = new Card("spades","5");//Added from github
         Card[] magicHand = new Card[7];
         String value;
         String suits;
